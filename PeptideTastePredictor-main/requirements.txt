@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+biopython
+modlamp
+matplotlib
+seaborn
+joblib
+openpyxl
+requests
+py3Dmol
+
